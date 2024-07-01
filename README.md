@@ -1,4 +1,4 @@
-# final-project-akp18 - Online Marketplace on Blockchain
+# final-project-akp18 - Online Marketplace on Blockchain (https://github.com/apatel2018/final-project-akp18)
 
 ## Description: Create an online marketplace that operates on the blockchain.
 
